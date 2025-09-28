@@ -41,7 +41,7 @@ Esses indicadores permitem uma tomada de decisão orientada a dados, com foco em
 ## 📁 Estrutura do Projeto
 
 ```text
-📁 analise_estoque_powerbi/
+📁 analise_logistica_powerbi/
 ├── 📁 data/                              
 │   └── raw/                                              # Dados brutos 
 │      ├── NotasFiscais/                                                             
@@ -60,7 +60,7 @@ Esses indicadores permitem uma tomada de decisão orientada a dados, com foco em
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Excel**: Fonte de dados estruturada (bd_estoque.xlsx)
+- **Excel**: Fonte de dados estruturada
 - **Power Query**: ETL (Extract, Transform, Load) e transformação de dados
 - **Power BI Desktop**: Desenvolvimento do dashboard e modelagem de dados
 - **DAX (Data Analysis Expressions)**: Criação de medidas calculadas e KPIs
