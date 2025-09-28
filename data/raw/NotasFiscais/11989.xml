@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>22/04/2021</DataEmissao>
+<NotaFiscal>11989</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>4049</CodCliente>
+<TotalNotaFiscal>340,82</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,682</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>23/04/2021</DataColeta>
+<DataEntrega>25/04/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

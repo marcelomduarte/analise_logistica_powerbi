@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>03/05/2020</DataEmissao>
+<NotaFiscal>10849</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>4044</CodCliente>
+<TotalNotaFiscal>6204,24</TotalNotaFiscal>
+<Volumes>7</Volumes>
+<PesoBruto>37,18</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>03/05/2020</DataColeta>
+<DataEntrega>04/05/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>13/06/2021</DataEmissao>
+<NotaFiscal>12215</NotaFiscal>
+<Warehouse>WHRJ</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Porto Alegre</CidadeDestino>
+<CodCliente>4032</CodCliente>
+<TotalNotaFiscal>3340,76</TotalNotaFiscal>
+<Volumes>7</Volumes>
+<PesoBruto>36,51</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>14/06/2021</DataColeta>
+<DataEntrega>17/06/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

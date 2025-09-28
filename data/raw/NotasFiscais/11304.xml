@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>29/09/2020</DataEmissao>
+<NotaFiscal>11304</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>4064</CodCliente>
+<TotalNotaFiscal>728,8</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>4,62</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>30/09/2020</DataColeta>
+<DataEntrega>09/10/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

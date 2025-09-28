@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>20/02/2021</DataEmissao>
+<NotaFiscal>11780</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>4041</CodCliente>
+<TotalNotaFiscal>784,18</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>4,879</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>20/02/2021</DataColeta>
+<DataEntrega>28/02/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

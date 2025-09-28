@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>25/04/2020</DataEmissao>
+<NotaFiscal>10822</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Rio De Janeiro</CidadeDestino>
+<CodCliente>4062</CodCliente>
+<TotalNotaFiscal>3078,05</TotalNotaFiscal>
+<Volumes>7</Volumes>
+<PesoBruto>14,454</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>25/04/2020</DataColeta>
+<DataEntrega>27/04/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

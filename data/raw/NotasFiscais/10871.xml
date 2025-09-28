@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>10/05/2020</DataEmissao>
+<NotaFiscal>10871</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>4064</CodCliente>
+<TotalNotaFiscal>1316,26</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,12</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>10/05/2020</DataColeta>
+<DataEntrega>12/05/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

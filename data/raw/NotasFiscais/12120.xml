@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>24/05/2021</DataEmissao>
+<NotaFiscal>12120</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Porto Alegre</CidadeDestino>
+<CodCliente>4027</CodCliente>
+<TotalNotaFiscal>3925,74</TotalNotaFiscal>
+<Volumes>4</Volumes>
+<PesoBruto>26,34</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>25/05/2021</DataColeta>
+<DataEntrega>01/06/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>16/07/2021</DataEmissao>
+<NotaFiscal>12369</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>4202</CodCliente>
+<TotalNotaFiscal>1057,18</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>2,536</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>16/07/2021</DataColeta>
+<DataEntrega>17/07/2021</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</notas_fiscais>

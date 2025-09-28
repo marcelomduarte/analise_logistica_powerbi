@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>23/10/2020</DataEmissao>
+<NotaFiscal>11378</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>4060</CodCliente>
+<TotalNotaFiscal>5670,59</TotalNotaFiscal>
+<Volumes>9</Volumes>
+<PesoBruto>25,795</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>23/10/2020</DataColeta>
+<DataEntrega>25/10/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>10/03/2020</DataEmissao>
+<NotaFiscal>10694</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>4049</CodCliente>
+<TotalNotaFiscal>8923,43</TotalNotaFiscal>
+<Volumes>30</Volumes>
+<PesoBruto>92,4</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>10/03/2020</DataColeta>
+<DataEntrega>18/03/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

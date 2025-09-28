@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>27/12/2020</DataEmissao>
+<NotaFiscal>11602</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>4023</CodCliente>
+<TotalNotaFiscal>13,86</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,224</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>27/12/2020</DataColeta>
+<DataEntrega>03/01/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

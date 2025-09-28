@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>15/08/2021</DataEmissao>
+<NotaFiscal>12535</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Sao Jose Do Rio Preto</CidadeDestino>
+<CodCliente>4227</CodCliente>
+<TotalNotaFiscal>1164,99</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>11,838</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>15/08/2021</DataColeta>
+<DataEntrega>16/08/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

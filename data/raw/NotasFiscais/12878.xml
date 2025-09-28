@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>22/10/2021</DataEmissao>
+<NotaFiscal>12878</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>4161</CodCliente>
+<TotalNotaFiscal>1506,78</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>3,218</PesoBruto>
+<CodTransportadora>6900304</CodTransportadora>
+<Transportadora>RodoNordeste</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>22/10/2021</DataColeta>
+<DataEntrega>30/10/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

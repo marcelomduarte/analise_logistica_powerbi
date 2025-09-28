@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>18/09/2020</DataEmissao>
+<NotaFiscal>11238</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>4064</CodCliente>
+<TotalNotaFiscal>967,87</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>6,158</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>19/09/2020</DataColeta>
+<DataEntrega>23/09/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>30/01/2021</DataEmissao>
+<NotaFiscal>11724</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Aracatuba</CidadeDestino>
+<CodCliente>4035</CodCliente>
+<TotalNotaFiscal>252,19</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>0,425</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>31/01/2021</DataColeta>
+<DataEntrega>01/02/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

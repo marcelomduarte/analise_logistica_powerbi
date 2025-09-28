@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>28/10/2020</DataEmissao>
+<NotaFiscal>11404</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>4049</CodCliente>
+<TotalNotaFiscal>2851,94</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>6,258</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>28/10/2020</DataColeta>
+<DataEntrega>03/11/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>30/07/2021</DataEmissao>
+<NotaFiscal>12432</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>4190</CodCliente>
+<TotalNotaFiscal>1854,69</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>3,434</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>30/07/2021</DataColeta>
+<DataEntrega>01/08/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

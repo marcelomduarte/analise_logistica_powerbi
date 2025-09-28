@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>20/12/2020</DataEmissao>
+<NotaFiscal>11565</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Aracatuba</CidadeDestino>
+<CodCliente>4132</CodCliente>
+<TotalNotaFiscal>202,88</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,409</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>20/12/2020</DataColeta>
+<DataEntrega>27/12/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

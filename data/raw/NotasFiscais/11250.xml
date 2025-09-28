@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>20/09/2020</DataEmissao>
+<NotaFiscal>11250</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Goiania</CidadeDestino>
+<CodCliente>4041</CodCliente>
+<TotalNotaFiscal>132,36</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>4,979</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>21/09/2020</DataColeta>
+<DataEntrega>28/09/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

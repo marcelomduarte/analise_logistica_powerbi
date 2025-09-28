@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>05/06/2020</DataEmissao>
+<NotaFiscal>10932</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>4064</CodCliente>
+<TotalNotaFiscal>680,15</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,776</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>05/06/2020</DataColeta>
+<DataEntrega>13/06/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

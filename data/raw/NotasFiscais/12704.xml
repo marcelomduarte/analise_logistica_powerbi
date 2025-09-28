@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>14/09/2021</DataEmissao>
+<NotaFiscal>12704</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4193</CodCliente>
+<TotalNotaFiscal>793,18</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,12</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>14/09/2021</DataColeta>
+<DataEntrega>17/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

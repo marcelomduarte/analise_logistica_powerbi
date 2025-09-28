@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>07/06/2021</DataEmissao>
+<NotaFiscal>12164</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4022</CodCliente>
+<TotalNotaFiscal>478,67</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,517</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>07/06/2021</DataColeta>
+<DataEntrega>14/06/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>24/10/2021</DataEmissao>
+<NotaFiscal>12904</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4119</CodCliente>
+<TotalNotaFiscal>508,8</TotalNotaFiscal>
+<Volumes>6</Volumes>
+<PesoBruto>36,069</PesoBruto>
+<CodTransportadora>6900304</CodTransportadora>
+<Transportadora>RodoNordeste</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>25/10/2021</DataColeta>
+<DataEntrega>02/11/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

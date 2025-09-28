@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>31/01/2021</DataEmissao>
+<NotaFiscal>11726</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Taguatinga</CidadeDestino>
+<CodCliente>4034</CodCliente>
+<TotalNotaFiscal>2327,06</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>51,59</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>01/02/2021</DataColeta>
+<DataEntrega>08/02/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

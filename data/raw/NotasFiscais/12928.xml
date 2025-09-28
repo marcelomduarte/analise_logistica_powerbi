@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>29/10/2021</DataEmissao>
+<NotaFiscal>12928</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>4044</CodCliente>
+<TotalNotaFiscal>65,78</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>0,298</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>30/10/2021</DataColeta>
+<DataEntrega>08/11/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

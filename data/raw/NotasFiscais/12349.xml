@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>11/07/2021</DataEmissao>
+<NotaFiscal>12349</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>4060</CodCliente>
+<TotalNotaFiscal>232,32</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>21,948</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>11/07/2021</DataColeta>
+<DataEntrega>14/07/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

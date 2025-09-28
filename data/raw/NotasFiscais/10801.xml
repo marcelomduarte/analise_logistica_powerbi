@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>13/04/2020</DataEmissao>
+<NotaFiscal>10801</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>4089</CodCliente>
+<TotalNotaFiscal>498,77</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>6,6</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>13/04/2020</DataColeta>
+<DataEntrega>14/04/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

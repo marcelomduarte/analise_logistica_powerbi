@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>24/09/2020</DataEmissao>
+<NotaFiscal>11273</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>4023</CodCliente>
+<TotalNotaFiscal>351,14</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>13,42</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>25/09/2020</DataColeta>
+<DataEntrega>26/09/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

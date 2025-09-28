@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>19/04/2020</DataEmissao>
+<NotaFiscal>10809</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>4069</CodCliente>
+<TotalNotaFiscal>237,41</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,21</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>19/04/2020</DataColeta>
+<DataEntrega>24/04/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

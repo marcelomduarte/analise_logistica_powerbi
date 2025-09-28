@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>23/05/2021</DataEmissao>
+<NotaFiscal>12111</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>4168</CodCliente>
+<TotalNotaFiscal>4253,48</TotalNotaFiscal>
+<Volumes>7</Volumes>
+<PesoBruto>34,874</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>24/05/2021</DataColeta>
+<DataEntrega>26/05/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

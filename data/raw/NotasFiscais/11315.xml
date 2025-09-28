@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>30/09/2020</DataEmissao>
+<NotaFiscal>11315</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Sao Paulo</CidadeDestino>
+<CodCliente>4014</CodCliente>
+<TotalNotaFiscal>471,4</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>11,167</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>30/09/2020</DataColeta>
+<DataEntrega>05/10/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

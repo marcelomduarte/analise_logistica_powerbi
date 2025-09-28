@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>31/01/2020</DataEmissao>
+<NotaFiscal>10530</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Rio De Janeiro</CidadeDestino>
+<CodCliente>4019</CodCliente>
+<TotalNotaFiscal>6531,24</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>13,64</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>01/02/2020</DataColeta>
+<DataEntrega>11/02/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

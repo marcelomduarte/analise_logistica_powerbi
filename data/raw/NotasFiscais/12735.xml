@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>20/09/2021</DataEmissao>
+<NotaFiscal>12735</NotaFiscal>
+<Warehouse>WHRJ</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4250</CodCliente>
+<TotalNotaFiscal>629,37</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>4,18</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>20/09/2021</DataColeta>
+<DataEntrega>22/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

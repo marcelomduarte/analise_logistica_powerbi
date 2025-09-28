@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>30/07/2021</DataEmissao>
+<NotaFiscal>12454</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>4136</CodCliente>
+<TotalNotaFiscal>175,77</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,12</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>31/07/2021</DataColeta>
+<DataEntrega>05/08/2021</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</notas_fiscais>

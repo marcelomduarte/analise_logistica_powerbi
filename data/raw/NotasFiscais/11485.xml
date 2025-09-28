@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>19/11/2020</DataEmissao>
+<NotaFiscal>11485</NotaFiscal>
+<Warehouse>WHRJ</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>4049</CodCliente>
+<TotalNotaFiscal>3886,6</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,12</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>20/11/2020</DataColeta>
+<DataEntrega>23/11/2020</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</notas_fiscais>

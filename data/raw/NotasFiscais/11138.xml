@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>10/08/2020</DataEmissao>
+<NotaFiscal>11138</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Campo Grande</CidadeDestino>
+<CodCliente>4064</CodCliente>
+<TotalNotaFiscal>1432,76</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>2,377</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>10/08/2020</DataColeta>
+<DataEntrega>18/08/2020</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</notas_fiscais>

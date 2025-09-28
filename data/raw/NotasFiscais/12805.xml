@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>01/10/2021</DataEmissao>
+<NotaFiscal>12805</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>4190</CodCliente>
+<TotalNotaFiscal>2139,58</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>4,092</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>01/10/2021</DataColeta>
+<DataEntrega>03/10/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

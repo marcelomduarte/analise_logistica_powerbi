@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>17/09/2021</DataEmissao>
+<NotaFiscal>12714</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Rio De Janeiro</CidadeDestino>
+<CodCliente>4236</CodCliente>
+<TotalNotaFiscal>243,76</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,12</PesoBruto>
+<CodTransportadora>6700091</CodTransportadora>
+<Transportadora>Transnorte Cargas</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>17/09/2021</DataColeta>
+<DataEntrega>27/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

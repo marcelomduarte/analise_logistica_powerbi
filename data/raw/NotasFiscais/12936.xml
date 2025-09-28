@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>30/10/2021</DataEmissao>
+<NotaFiscal>12936</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>4161</CodCliente>
+<TotalNotaFiscal>3397,01</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>1,568</PesoBruto>
+<CodTransportadora>6900304</CodTransportadora>
+<Transportadora>RodoNordeste</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>5</PrazoContratado>
+<DataColeta>31/10/2021</DataColeta>
+<DataEntrega>07/11/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

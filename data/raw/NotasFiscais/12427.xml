@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>30/07/2021</DataEmissao>
+<NotaFiscal>12427</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Brasilia</CidadeDestino>
+<CodCliente>4166</CodCliente>
+<TotalNotaFiscal>969,43</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,302</PesoBruto>
+<CodTransportadora>6700091</CodTransportadora>
+<Transportadora>Transnorte Cargas</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>30/07/2021</DataColeta>
+<DataEntrega>07/08/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

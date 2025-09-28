@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>12/12/2021</DataEmissao>
+<NotaFiscal>13093</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>4172</CodCliente>
+<TotalNotaFiscal>258,5</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,137</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>13/12/2021</DataColeta>
+<DataEntrega>19/12/2021</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</notas_fiscais>

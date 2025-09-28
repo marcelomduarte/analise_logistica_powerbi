@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>13/06/2021</DataEmissao>
+<NotaFiscal>12210</NotaFiscal>
+<Warehouse>WHRJ</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Aracatuba</CidadeDestino>
+<CodCliente>4132</CodCliente>
+<TotalNotaFiscal>1886,37</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>1,8</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>14/06/2021</DataColeta>
+<DataEntrega>18/06/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

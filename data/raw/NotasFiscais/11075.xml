@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>27/07/2020</DataEmissao>
+<NotaFiscal>11075</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Sao Jose Do Rio Preto</CidadeDestino>
+<CodCliente>4116</CodCliente>
+<TotalNotaFiscal>425,76</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,12</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>28/07/2020</DataColeta>
+<DataEntrega>07/08/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

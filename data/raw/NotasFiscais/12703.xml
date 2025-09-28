@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>13/09/2021</DataEmissao>
+<NotaFiscal>12703</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>4194</CodCliente>
+<TotalNotaFiscal>1114,36</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>12,355</PesoBruto>
+<CodTransportadora>6700091</CodTransportadora>
+<Transportadora>Transnorte Cargas</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>13/09/2021</DataColeta>
+<DataEntrega>16/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

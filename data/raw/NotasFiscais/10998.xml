@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>27/06/2020</DataEmissao>
+<NotaFiscal>10998</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4105</CodCliente>
+<TotalNotaFiscal>1576,65</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>11,551</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>27/06/2020</DataColeta>
+<DataEntrega>30/06/2020</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</notas_fiscais>

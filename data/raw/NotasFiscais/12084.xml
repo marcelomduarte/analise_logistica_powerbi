@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>16/05/2021</DataEmissao>
+<NotaFiscal>12084</NotaFiscal>
+<Warehouse>WHRJ</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4119</CodCliente>
+<TotalNotaFiscal>6627,04</TotalNotaFiscal>
+<Volumes>17</Volumes>
+<PesoBruto>36,209</PesoBruto>
+<CodTransportadora>6900304</CodTransportadora>
+<Transportadora>RodoNordeste</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>17/05/2021</DataColeta>
+<DataEntrega>27/05/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

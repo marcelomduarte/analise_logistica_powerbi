@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>17/10/2020</DataEmissao>
+<NotaFiscal>11356</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Taguatinga</CidadeDestino>
+<CodCliente>4034</CodCliente>
+<TotalNotaFiscal>589,22</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,98</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>17/10/2020</DataColeta>
+<DataEntrega>25/10/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

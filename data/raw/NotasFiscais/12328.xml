@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>04/07/2021</DataEmissao>
+<NotaFiscal>12328</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Recife</CidadeDestino>
+<CodCliente>4164</CodCliente>
+<TotalNotaFiscal>1097,85</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>3,572</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>04/07/2021</DataColeta>
+<DataEntrega>06/07/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

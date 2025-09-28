@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>17/09/2021</DataEmissao>
+<NotaFiscal>12720</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>4241</CodCliente>
+<TotalNotaFiscal>12057,99</TotalNotaFiscal>
+<Volumes>15</Volumes>
+<PesoBruto>58,468</PesoBruto>
+<CodTransportadora>6900304</CodTransportadora>
+<Transportadora>RodoNordeste</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>17/09/2021</DataColeta>
+<DataEntrega>25/09/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>01/09/2020</DataEmissao>
+<NotaFiscal>11203</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Pocos De Caldas</CidadeDestino>
+<CodCliente>4121</CodCliente>
+<TotalNotaFiscal>917,29</TotalNotaFiscal>
+<Volumes>4</Volumes>
+<PesoBruto>34,879</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>01/09/2020</DataColeta>
+<DataEntrega>05/09/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

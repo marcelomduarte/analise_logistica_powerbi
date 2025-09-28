@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>04/10/2021</DataEmissao>
+<NotaFiscal>12818</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Aracatuba</CidadeDestino>
+<CodCliente>4132</CodCliente>
+<TotalNotaFiscal>23781,12</TotalNotaFiscal>
+<Volumes>32</Volumes>
+<PesoBruto>164,329</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>04/10/2021</DataColeta>
+<DataEntrega>05/10/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

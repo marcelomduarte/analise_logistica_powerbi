@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>13/07/2021</DataEmissao>
+<NotaFiscal>12355</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Blumenau</CidadeDestino>
+<CodCliente>4153</CodCliente>
+<TotalNotaFiscal>214,24</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,122</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>13/07/2021</DataColeta>
+<DataEntrega>23/07/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

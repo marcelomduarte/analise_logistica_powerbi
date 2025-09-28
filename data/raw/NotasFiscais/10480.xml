@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>18/01/2020</DataEmissao>
+<NotaFiscal>10480</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Rio De Janeiro</CidadeDestino>
+<CodCliente>4013</CodCliente>
+<TotalNotaFiscal>1760,18</TotalNotaFiscal>
+<Volumes>6</Volumes>
+<PesoBruto>1,32</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>19/01/2020</DataColeta>
+<DataEntrega>25/01/2020</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</notas_fiscais>

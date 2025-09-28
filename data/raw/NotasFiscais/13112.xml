@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>17/12/2021</DataEmissao>
+<NotaFiscal>13112</NotaFiscal>
+<Warehouse>WHBH</Warehouse>
+<CidadeOrigem>Belo Horizonte</CidadeOrigem>
+<CidadeDestino>Aracatuba</CidadeDestino>
+<CodCliente>4271</CodCliente>
+<TotalNotaFiscal>59,55</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,11</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>18/12/2021</DataColeta>
+<DataEntrega>27/12/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>05/02/2021</DataEmissao>
+<NotaFiscal>11728</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Novo Hamburgo</CidadeDestino>
+<CodCliente>4127</CodCliente>
+<TotalNotaFiscal>147,36</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>3,871</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>06/02/2021</DataColeta>
+<DataEntrega>13/02/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

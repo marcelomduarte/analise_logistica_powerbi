@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>28/05/2021</DataEmissao>
+<NotaFiscal>12132</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Sinop</CidadeDestino>
+<CodCliente>4142</CodCliente>
+<TotalNotaFiscal>196,67</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,12</PesoBruto>
+<CodTransportadora>6700091</CodTransportadora>
+<Transportadora>Transnorte Cargas</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>9</PrazoContratado>
+<DataColeta>29/05/2021</DataColeta>
+<DataEntrega>05/06/2021</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</notas_fiscais>

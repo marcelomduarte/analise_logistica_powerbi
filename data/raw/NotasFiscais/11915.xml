@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>31/03/2021</DataEmissao>
+<NotaFiscal>11915</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>4152</CodCliente>
+<TotalNotaFiscal>318,36</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,181</PesoBruto>
+<CodTransportadora>6900304</CodTransportadora>
+<Transportadora>RodoNordeste</Transportadora>
+<CentroDistribuicao>Fortaleza</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>31/03/2021</DataColeta>
+<DataEntrega>01/04/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

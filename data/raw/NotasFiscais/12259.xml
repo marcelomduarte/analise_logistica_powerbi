@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>21/06/2021</DataEmissao>
+<NotaFiscal>12259</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Santos</CidadeDestino>
+<CodCliente>4148</CodCliente>
+<TotalNotaFiscal>2985,11</TotalNotaFiscal>
+<Volumes>6</Volumes>
+<PesoBruto>6,138</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Urgente</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>21/06/2021</DataColeta>
+<DataEntrega>24/06/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

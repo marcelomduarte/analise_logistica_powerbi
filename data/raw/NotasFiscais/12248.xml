@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>19/06/2021</DataEmissao>
+<NotaFiscal>12248</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Porto Alegre</CidadeDestino>
+<CodCliente>4184</CodCliente>
+<TotalNotaFiscal>972,93</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>2,046</PesoBruto>
+<CodTransportadora>6700091</CodTransportadora>
+<Transportadora>Transnorte Cargas</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>19/06/2021</DataColeta>
+<DataEntrega>27/06/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

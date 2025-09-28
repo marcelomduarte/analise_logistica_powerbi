@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>29/11/2021</DataEmissao>
+<NotaFiscal>13059</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4045</CodCliente>
+<TotalNotaFiscal>3684,39</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>53,9</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>30/11/2021</DataColeta>
+<DataEntrega>09/12/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

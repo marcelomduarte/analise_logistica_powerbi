@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>01/06/2020</DataEmissao>
+<NotaFiscal>10918</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Curitiba</CidadeDestino>
+<CodCliente>4099</CodCliente>
+<TotalNotaFiscal>37515,75</TotalNotaFiscal>
+<Volumes>54</Volumes>
+<PesoBruto>183,702</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>2</PrazoContratado>
+<DataColeta>01/06/2020</DataColeta>
+<DataEntrega>05/06/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

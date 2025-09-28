@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>11/04/2020</DataEmissao>
+<NotaFiscal>10793</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Taguatinga</CidadeDestino>
+<CodCliente>4034</CodCliente>
+<TotalNotaFiscal>3957,83</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>2,313</PesoBruto>
+<CodTransportadora>6100231</CodTransportadora>
+<Transportadora>Cargo Centro-Oeste</Transportadora>
+<CentroDistribuicao>Goiania</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>7</PrazoContratado>
+<DataColeta>11/04/2020</DataColeta>
+<DataEntrega>13/04/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

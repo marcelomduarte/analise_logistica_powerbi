@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>05/04/2020</DataEmissao>
+<NotaFiscal>10773</NotaFiscal>
+<Warehouse>WHRJ</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4022</CodCliente>
+<TotalNotaFiscal>2635,17</TotalNotaFiscal>
+<Volumes>13</Volumes>
+<PesoBruto>31,9</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>05/04/2020</DataColeta>
+<DataEntrega>14/04/2020</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</notas_fiscais>

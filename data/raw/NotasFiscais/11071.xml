@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>25/07/2020</DataEmissao>
+<NotaFiscal>11071</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Porto Alegre</CidadeDestino>
+<CodCliente>4016</CodCliente>
+<TotalNotaFiscal>1358,73</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>3,175</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>26/07/2020</DataColeta>
+<DataEntrega>27/07/2020</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</notas_fiscais>

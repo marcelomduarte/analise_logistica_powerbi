@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>17/08/2021</DataEmissao>
+<NotaFiscal>12557</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Sao Jose Dos Pinhais</CidadeDestino>
+<CodCliente>4208</CodCliente>
+<TotalNotaFiscal>484,33</TotalNotaFiscal>
+<Volumes>5</Volumes>
+<PesoBruto>30,507</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>11</PrazoContratado>
+<DataColeta>17/08/2021</DataColeta>
+<DataEntrega>19/08/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

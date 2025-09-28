@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>31/08/2021</DataEmissao>
+<NotaFiscal>12660</NotaFiscal>
+<Warehouse>WHRJ</Warehouse>
+<CidadeOrigem>Rio De Janeiro</CidadeOrigem>
+<CidadeDestino>Manaus</CidadeDestino>
+<CodCliente>4045</CodCliente>
+<TotalNotaFiscal>6882,16</TotalNotaFiscal>
+<Volumes>8</Volumes>
+<PesoBruto>42,709</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>31/08/2021</DataColeta>
+<DataEntrega>03/09/2021</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>06/01/2020</DataEmissao>
+<NotaFiscal>10437</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Varzea Grande</CidadeDestino>
+<CodCliente>4020</CodCliente>
+<TotalNotaFiscal>576,87</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>5,754</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>8</PrazoContratado>
+<DataColeta>07/01/2020</DataColeta>
+<DataEntrega>09/01/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>27/04/2021</DataEmissao>
+<NotaFiscal>12013</NotaFiscal>
+<Warehouse>WHCPQ</Warehouse>
+<CidadeOrigem>Campinas</CidadeOrigem>
+<CidadeDestino>Varzea Grande</CidadeDestino>
+<CodCliente>4020</CodCliente>
+<TotalNotaFiscal>295,84</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,679</PesoBruto>
+<CodTransportadora>6500948</CodTransportadora>
+<Transportadora>Gaucho Transportes</Transportadora>
+<CentroDistribuicao>Porto Alegre</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>4</PrazoContratado>
+<DataColeta>28/04/2021</DataColeta>
+<DataEntrega>06/05/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>28/08/2021</DataEmissao>
+<NotaFiscal>12616</NotaFiscal>
+<Warehouse>WHSJC</Warehouse>
+<CidadeOrigem>Sao Jose dos Campos</CidadeOrigem>
+<CidadeDestino>Belo Horizonte</CidadeDestino>
+<CodCliente>4218</CodCliente>
+<TotalNotaFiscal>872,9</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>1,192</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>6</PrazoContratado>
+<DataColeta>29/08/2021</DataColeta>
+<DataEntrega>02/09/2021</DataEntrega>
+<Ocorrencia>Avaria</Ocorrencia>
+</notas_fiscais>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>13/06/2021</DataEmissao>
+<NotaFiscal>12207</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Sao Jose Do Rio Preto</CidadeDestino>
+<CodCliente>4173</CodCliente>
+<TotalNotaFiscal>9699,61</TotalNotaFiscal>
+<Volumes>16</Volumes>
+<PesoBruto>172,973</PesoBruto>
+<CodTransportadora>6600879</CodTransportadora>
+<Transportadora>Transportadora Mineira</Transportadora>
+<CentroDistribuicao>Belo Horizonte</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>12</PrazoContratado>
+<DataColeta>14/06/2021</DataColeta>
+<DataEntrega>21/06/2021</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

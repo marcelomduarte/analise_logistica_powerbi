@@ -1,0 +1,8 @@
+# Arquivos Power BI
+*.pbix
+
+# Pasta template
+reports/powerbi/template/
+
+# Pasta arquitetura_em_camadas
+scripts/pq_m/arquitetura_em_camadas_pq/

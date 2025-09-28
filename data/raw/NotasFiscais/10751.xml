@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>31/03/2020</DataEmissao>
+<NotaFiscal>10751</NotaFiscal>
+<Warehouse>WHVIT</Warehouse>
+<CidadeOrigem>Vitoria</CidadeOrigem>
+<CidadeDestino>Florianopolis</CidadeDestino>
+<CodCliente>4077</CodCliente>
+<TotalNotaFiscal>2978,16</TotalNotaFiscal>
+<Volumes>3</Volumes>
+<PesoBruto>45,54</PesoBruto>
+<CodTransportadora>6400835</CodTransportadora>
+<Transportadora>Paulistana</Transportadora>
+<CentroDistribuicao>Guarulhos</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>1</PrazoContratado>
+<DataColeta>31/03/2020</DataColeta>
+<DataEntrega>04/04/2020</DataEntrega>
+<Ocorrencia>Nenhuma</Ocorrencia>
+</notas_fiscais>

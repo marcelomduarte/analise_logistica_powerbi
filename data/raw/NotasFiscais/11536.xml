@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>07/12/2020</DataEmissao>
+<NotaFiscal>11536</NotaFiscal>
+<Warehouse>WHSAO</Warehouse>
+<CidadeOrigem>Sao Paulo</CidadeOrigem>
+<CidadeDestino>Novo Hamburgo</CidadeDestino>
+<CodCliente>4127</CodCliente>
+<TotalNotaFiscal>260,05</TotalNotaFiscal>
+<Volumes>1</Volumes>
+<PesoBruto>0,501</PesoBruto>
+<CodTransportadora>6140092</CodTransportadora>
+<Transportadora>RodoCarioca</Transportadora>
+<CentroDistribuicao>Rio de Janeiro</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>07/12/2020</DataColeta>
+<DataEntrega>12/12/2020</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</notas_fiscais>

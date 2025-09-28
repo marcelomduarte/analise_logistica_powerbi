@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<notas_fiscais>
+<DataEmissao>19/04/2021</DataEmissao>
+<NotaFiscal>11969</NotaFiscal>
+<Warehouse>WHPOA</Warehouse>
+<CidadeOrigem>Porto Alegre</CidadeOrigem>
+<CidadeDestino>Sinop</CidadeDestino>
+<CodCliente>4142</CodCliente>
+<TotalNotaFiscal>444,75</TotalNotaFiscal>
+<Volumes>2</Volumes>
+<PesoBruto>0,289</PesoBruto>
+<CodTransportadora>6700091</CodTransportadora>
+<Transportadora>Transnorte Cargas</Transportadora>
+<CentroDistribuicao>Manaus</CentroDistribuicao>
+<TipoTransporte>Convencional</TipoTransporte>
+<PrazoContratado>10</PrazoContratado>
+<DataColeta>20/04/2021</DataColeta>
+<DataEntrega>23/04/2021</DataEntrega>
+<Ocorrencia>Extravio</Ocorrencia>
+</notas_fiscais>
